@@ -7,22 +7,18 @@
 
 #### Зимняя тема
 
-1. Иннокентий мечтательный. [установить](https://github.com/sdnazarova/saby-customizer/raw/main/winter_2025/SABY-Winter-Horse-Fly-static.user.js)
+1. Иннокентий дружелюбный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Friendly-static.user.js)
 
-![](winter_2025/src-img/Horse-Fly.png)
+![](spring_2026/src-img/Innokentiy_friendly.png)
 
-2. Иннокентий в гирлянде. [установить](https://github.com/sdnazarova/saby-customizer/raw/main/winter_2025/SABY-Winter-Horse-Garland-static.user.js)
+2. Иннокентий радостный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Happy-static.user.js)
 
-![](winter_2025/src-img/Horse-Garland.png)
+![](spring_2026/src-img/Innokentiy_happy.png)
 
-3. Иннокентий с мандаринами (большой). [установить](https://github.com/sdnazarova/saby-customizer/raw/main/winter_2025/SABY-Winter-Horse-Tangerines-Big-static.user.js)
+3. Иннокентий милашка. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Lovely-static.user.js)
 
-![](winter_2025/src-img/Horse-Tangerines-Big.png)
+![](spring_2026/src-img/Innokentiy_lovely.png)
 
-4. Иннокентий с мандаринами (маленький). [установить](https://github.com/sdnazarova/saby-customizer/raw/main/winter_2025/SABY-Winter-Horse-Tangerines-static.user.js)
+4. Иннокентий в шапке. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Snowy-static.user.js)
 
-![](winter_2025/src-img/Horse-Tangerines.png)
-
-5. Иннокентий с вишевым соком. [установить](https://github.com/sdnazarova/saby-customizer/raw/main/winter_2025/SABY-Winter-Horse-Wine-static.user.js)
-
-![](winter_2025/src-img/Horse-Wine.png)
+![](spring_2026/src-img/Innokentiy_snowy.png)
