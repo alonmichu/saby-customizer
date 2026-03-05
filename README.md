@@ -9,7 +9,7 @@
 
 1. Иннокентий дружелюбный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Friendly-static.user.js)
 
-![](spring_2026/src-img/Innokentiy_friendly.png)
+![](spring_2026/src-img/Innokentiy_friendly.png){: width="250px"} 
 
 2. Иннокентий радостный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Happy-static.user.js)
 
