@@ -5,20 +5,20 @@
 
 ![](spring_2024/src-img/tampermonkey.png)
 
-#### Зимняя тема
+#### Весенняя тема
 
 1. Иннокентий дружелюбный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Friendly-static.user.js)
 
-![](spring_2026/src-img/Innokentiy_friendly.png)
+<img src="spring_2026/src-img/Innokentiy_friendly.png" alt="Innokentiy_friendly" width="250">
 
 2. Иннокентий радостный. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Happy-static.user.js)
 
-![](spring_2026/src-img/Innokentiy_happy.png)
+<img src="spring_2026/src-img/Innokentiy_happy.png" alt="Innokentiy_happy" width="250">
 
 3. Иннокентий милашка. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Lovely-static.user.js)
 
-![](spring_2026/src-img/Innokentiy_lovely.png)
+<img src="spring_2026/src-img/Innokentiy_lovely.png" alt="Innokentiy_lovely" width="250">
 
 4. Иннокентий в шапке. [установить](https://github.com/alonmichu/saby-customizer/raw/main/spring_2026/SABY-Spring-Innokentiy-Snowy-static.user.js)
 
-![](spring_2026/src-img/Innokentiy_snowy.png)
+<img src="spring_2026/src-img/Innokentiy_snowy.png" alt="Innokentiy_snowy" width="250">
